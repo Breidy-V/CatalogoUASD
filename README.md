@@ -66,7 +66,7 @@ git clone https://github.com
 * **Ronald A. Haché Mármol** - *Desarrollo e Interfaz* - [@Dizzzy1](https://github.com/Dizzzy1)
 * **Leticia M. Evertsz Mejia** - *Desarrollo y Base de Datos***** - [@](https://github.com)
 * **Natanael Johnson** - *Desarrollo e Interfaz* - [@NatanaelJohnson20](https://github.com/NatanaelJohnson20)
-* **José M. De La Cruz Almonte** - *Desarrollo y Base de Datos* - [@](https://github.com/almontedelacruzjosemanuel-bot)
+* **José M. De La Cruz Almonte** - *Desarrollo y Base de Datos* - [@almontedelacruzjosemanuel](https://github.com/almontedelacruzjosemanuel-bot)
 
 
 ---
